@@ -1,0 +1,154 @@
+.login1 {
+  top: 455px;
+  left: 440px;
+  font-size: 150px;
+  font-weight: 600;
+}
+.group-child,
+.login1,
+.please-login-to {
+  position: absolute;
+}
+.please-login-to {
+  top: 637px;
+  left: 104px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: #d64c37;
+  width: 131px;
+  height: 38px;
+}
+.vector-icon {
+  position: absolute;
+  height: 39.47%;
+  width: 18.32%;
+  top: 31.58%;
+  right: 41.22%;
+  bottom: 28.95%;
+  left: 40.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 945px;
+  left: 428px;
+  width: 131px;
+  height: 38px;
+}
+.enter-via-social {
+  position: absolute;
+  top: 848px;
+  left: 428px;
+  font-size: var(--font-size-17xl);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: #475b93;
+  width: 131px;
+  height: 38px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 57.57%;
+  width: 16.7%;
+  top: 21.05%;
+  right: 42.08%;
+  bottom: 21.38%;
+  left: 41.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-group {
+  position: absolute;
+  top: 945px;
+  left: 677px;
+  width: 131px;
+  height: 38px;
+}
+.or-login-with {
+  position: absolute;
+  top: 1117px;
+  left: 445px;
+  font-size: var(--font-size-17xl);
+}
+.bn-phm-child,
+.bn-phm-inner,
+.group-inner {
+  position: absolute;
+  width: 960px;
+  height: 128px;
+}
+.bn-phm-inner,
+.group-inner {
+  top: 0;
+}
+.group-inner {
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.bn-phm-child,
+.bn-phm-inner {
+  left: 160px;
+}
+.bn-phm-child {
+  top: 170px;
+}
+.bn-phm,
+.component-child {
+  position: absolute;
+  top: 1220px;
+  left: 0;
+  width: 1280px;
+  height: 1220px;
+}
+.component-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background-color: #1554b0;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+}
+.login-inner {
+  position: absolute;
+  top: 1564px;
+  left: 160px;
+  width: 960px;
+  height: 120px;
+  cursor: pointer;
+}
+.login2 {
+  position: absolute;
+  top: 1585px;
+  left: 541px;
+  color: var(--color-white);
+}
+.login {
+  position: relative;
+  width: 100%;
+  height: 2440px;
+  overflow: hidden;
+  background-image: url(./public/login@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-mediumseagreen);
+  font-family: var(--font-inter);
+}
